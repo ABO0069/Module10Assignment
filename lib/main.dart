@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//this is the main screen showing the list of courses
 class CourseListScreen extends StatelessWidget {
   const CourseListScreen({Key? key}) : super(key: key);
 

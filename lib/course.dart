@@ -15,6 +15,7 @@ class Course {
   });
 }
 
+//this is the course list data
 List<Course> courses = [
   Course(
     imageUrl: 'assets/mern.jpg', 
